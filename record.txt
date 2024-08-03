@@ -1,0 +1,14 @@
+2;sadaf;Item 1;Item 1;344.0
+2, sadaf, Stomachache, Dr. Rodriguez, 3:00, 3400.0
+2, , Fever, Item 1, 11:00, 0.0
+3, sadaf, Headache, Dr. Martinez, 3:00, -455.0
+5, sadaf, Stomachache, Dr. Rodriguez, 5:00, 67.8
+34, ali, Cold, Dr. Wilson, 3:00, 3455.0
+2, sadaf, Fever, Dr. Johnson, 3:00, 4449.0
+7, zaia, Stomachache, Dr. Garcia, 5:00, 2000.0
+110, khk, Headache, Dr. Davis, 11:00, 6777.0
+10, sadaf, Fever, Item 1, 11:00, 1.0
+23, asma, Headache, Dr. Davis, 11:00, 2344.0
+12, sad, Stomachache, Dr. Rodriguez, 3:00, 2300.0
+9, sadaf, Headache, Dr. Martinez, 3:00, 455.0
+2002, abdul ahad, General Physician, Dr.Mehmood, 3:00, 2900.0, 2024-07-10
